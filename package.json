@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shebaz313/any-cpt-listing-gutenberg-block.git"
+    "url": "git+https://github.com/SamFalese/any-cpt-listing-gutenberg-block-main.git"
   },
   "author": "Sam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shebaz313/any-cpt-listing-gutenberg-block/issues"
+    "url": "https://github.com/SamFalese/any-cpt-listing-gutenberg-block-main/issues"
   },
-  "homepage": "https://github.com/shebaz313/any-cpt-listing-gutenberg-block#readme",
+  "homepage": "https://github.com/SamFalese/any-cpt-listing-gutenberg-block-main#readme",
   "dependencies": {
     "@wordpress/scripts": "^22.5.0"
   }
