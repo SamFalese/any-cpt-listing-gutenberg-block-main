@@ -1,5 +1,5 @@
 === Any CPT Listing Block ===
-Contributors: shebaz, panchalhimani711
+Contributors: Sam
 Tags: blocks, gutenberg, post, custom, cpt, list, grid, section
 Requires at least: 5 or higher
 Tested up to: 5.9
