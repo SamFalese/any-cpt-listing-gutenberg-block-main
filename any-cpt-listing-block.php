@@ -4,7 +4,7 @@
  * Plugin Name: Any CPT Listing Block
  * Description: Show list or grid view of any kind of wp post type including default posts as well as custom post types in front end also with verity of settings.
  * Version:     1.0.0
- * Author:      Shebaz Multani
+ * Author:      Sam
  * Text Domain: any-cpt-listing-block
  * Domain Path: /languages
  */
